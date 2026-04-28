@@ -1,13 +1,9 @@
-# Bradford Heat Cool Website
+# Bradford Heating & Cooling Website
 
-This repository contains the starter homepage for **Bradford Heat Cool**.
+This repository hosts a static GitHub Pages copy of the public website at https://bradfordheatcool.com/.
 
-The main website file is `index.html`. It can be customized with the business phone number, email address, service area, photos, customer reviews, and more detailed service descriptions.
+The GitHub Pages URL is expected to be:
 
-## GitHub Pages
+https://Bradfordheatcool.github.io/
 
-Because this repository is named `Bradfordheatcool.github.io`, it is set up for a personal GitHub Pages website. If GitHub Pages is enabled for this repository, the website address will be:
-
-`https://Bradfordheatcool.github.io/`
-
-The repository was created as **private**, so GitHub Pages publishing may depend on the GitHub account plan and Pages settings.
+The source files were mirrored from the public Manus-hosted site so the GitHub Pages version matches the live site as closely as possible.
