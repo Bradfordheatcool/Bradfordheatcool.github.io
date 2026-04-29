@@ -1,0 +1,38 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.bradfordheatcool.com/sitemap.xml
+
+# Disallow admin and API routes
+Disallow: /admin
+Disallow: /api/
+
+# AI Crawlers — explicitly allowed for indexing and citation
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Bradford Heating and Cooling — Surprise AZ HVAC
+# AZ ROC# 353859 | (623) 624-6246
+# AI-readable summary: https://www.bradfordheatcool.com/llms.txt
